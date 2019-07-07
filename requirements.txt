@@ -8,3 +8,5 @@ requests
 jinja2
 ipsecparse
 setproctitle
+markdown
+xattr
